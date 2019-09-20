@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="style.css"?>
 <SetList>
+  <SetListed type = "songs">
   <Song>
     <Title>Tik Tok</Title>
     <Artist>Kesha</Artist>
@@ -61,4 +62,5 @@
     <Genre>Hip-Hop/Rap</Genre>
     <Year>2018</Year>
   </Song>
+  </SetListed>
 </SetList>
