@@ -1,0 +1,43 @@
+SetList {
+  background-color: #9F4298;
+}
+Song {
+  margin-top: 10px; 
+  display: block;
+}
+
+Title {
+  font-style: arial; 
+  font-size: 30px;
+  text-decoration: bold;
+  text-align: center; 
+  color: #CFDB31; 
+  border-style: solid;
+  border-radius: 5px; 
+  border-width: 5px; 
+  border-color: #D1AFD3;
+}
+
+Artist {
+  font-style: arial; 
+  font-size: 25px;
+  text-decoration: none;
+  text-align: center; 
+  color: #E6E7E8; 
+}
+
+Genre {  
+  font-style: arial; 
+  font-size: 25px;
+  text-decoration: none;
+  text-align: center; 
+  color: #E6E7E8; 
+}
+
+Year {
+  font-style: arial; 
+  font-size: 25px;
+  text-decoration: none;
+  text-align: center; 
+  color: #E6E7E8; 
+}
